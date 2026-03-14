@@ -1,0 +1,16 @@
+Atividade 1 - sala
+
+- Implementar componente de botão (CustomButton), que deverá ser utilizado nas página de login e alteração de senha.
+
+No login:
+
+- entrar
+
+Na alteração de senha
+
+- alterar senha
+
+Implementar estilização para o botão
+
+- cor: azul
+- borda: arredonda
